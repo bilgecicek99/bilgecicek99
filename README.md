@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/bilgecicek3" target="_blank"><img src="https://img.shields.io/twitter/follow/bilgecicek3?logo=twitter&style=for-the-badge" alt="bilgecicek99" /></a> </p>
 
 
-- 📫 How to reach me **ramazanbulbul3543@gmail.com**
+- 📫 How to reach me **bcicek621@gmail.com**
 -  I’m currently learning  .NET 8 and Microservices
 
 <h3 align="left">Connect with me:</h3>
