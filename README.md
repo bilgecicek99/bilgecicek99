@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilge ÇİÇEK </h1>
-<h3 align="center">Computer engineer from Turkey</h3>
+<h3 align="center">Software Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilgecicek99&label=Profile%20views&color=0e75b6&style=flat" alt="bilgecicek99" /> </p>
 <p align="left"> <a href="https://twitter.com/bilgecicek3" target="_blank"><img src="https://img.shields.io/twitter/follow/bilgecicek3?logo=twitter&style=for-the-badge" alt="bilgecicek99" /></a> </p>
