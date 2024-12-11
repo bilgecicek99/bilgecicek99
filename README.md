@@ -6,7 +6,7 @@
 
 
 - 📫 How to reach me **bcicek621@gmail.com**
--  I’m currently learning  .NET 8 and Microservices
+-  I’m currently learning  Swift and SpringBoot
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
